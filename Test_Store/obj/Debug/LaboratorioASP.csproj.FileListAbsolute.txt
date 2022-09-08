@@ -1,0 +1,16 @@
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\bin\Debug\LaboratorioASP.exe.config
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\bin\Debug\LaboratorioASP.exe
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\bin\Debug\LaboratorioASP.pdb
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.Loggin.resources
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.Properties.Resources.resources
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.csproj.GenerateResource.cache
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.csproj.CoreCompileInputs.cache
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.exe
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.pdb
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.frmMenu.resources
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.frmProductos.resources
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.frmFactura.resources
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.exe.config
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.csproj.AssemblyReference.cache
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.Interfaces.frmInventario.resources
+C:\Users\JOHN\Desktop\SENA V2\Desarrollo\Visual_Laboratorio\LaboratorioASP\obj\Debug\LaboratorioASP.csproj.SuggestedBindingRedirects.cache
